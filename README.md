@@ -1,8 +1,10 @@
 # Monitoramento das Causas de Estresse nos Alunos Universitários
 
-<div align="center">
-    <img src=https://static.vecteezy.com/ti/vetor-gratis/p1/6696759-cansado-estudante-mental-estresse-educacao-preparacao-frustracao-conceito-de-aprendizagem-vetor.jpg width="400">
-</div>
+<p align="center">
+  <img src=C:\Users\Cliente\Downloads\Camila\Monitoramento-das-causas-de-estresse-nos-alunos-de-hoje\img\estudante.jpg.jpg width="400">
+</p>
+
+
 
 O conjunto de dados reúne respostas de 843 estudantes universitários, com idades entre 18 e 21 anos, sobre suas experiências relacionadas ao estresse, saúde, relacionamentos, desempenho acadêmico e bem-estar emocional.
 
