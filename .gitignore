@@ -1,13 +1,58 @@
-# Created by git for backups. To disable backups in Git:
-# $ git config --global mergetool.keepBackup false
-*.orig
+# ========================
+# AMBIENTES PYTHON
+# ========================
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+build/
+dist/
 
-# Created by git when using merge tools for conflicts
-*.BACKUP.*
-*.BASE.*
-*.LOCAL.*
-*.REMOTE.*
-*_BACKUP_*.txt
-*_BASE_*.txt
-*_LOCAL_*.txt
-*_REMOTE_*.txt
+# ========================
+# JUPYTER NOTEBOOKS
+# ========================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ========================
+# ARQUIVOS TEMPORÁRIOS
+# ========================
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store  # MacOS
+Thumbs.db  # Windows
+
+# ========================
+# CONFIGURAÇÕES IDE/EDITOR
+# ========================
+.vscode/
+.idea/
+
+# ========================
+# ARQUIVOS DE DADOS
+# (Evitar subir dados sensíveis ou grandes)
+# ========================
+*.csv
+*.xlsx
+*.xls
+*.json
+*.db
+*.sqlite3
+*.sav
+*.parquet
+*.pkl
+
+# ========================
+# OUTROS ARQUIVOS CONFIDENCIAIS
+# ========================
+*.env
+*.ini
+*.cfg
+*.secret
