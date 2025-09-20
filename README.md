@@ -7,7 +7,7 @@
 
 
 
-O conjunto de dados reúne respostas de 843 estudantes universitários, com idades entre 18 e 21 anos, sobre suas experiências relacionadas ao estresse, saúde, relacionamentos, desempenho acadêmico e bem-estar emocional.
+O conjunto de dados reúne respostas de 843 estudantes universitários, com idades entre 18 e 21 anos, sobre suas experiências relacionadas ao estresse, saúde, relacionamentos, desempenho acadêmico e bem-estar emocional..
 
 As informações foram obtidas por meio de um questionário online aplicado via Google Forms, utilizando uma escala Likert de cinco pontos, que variava de “Nem um pouco” a “Extremamente”. Todas as respostas foram coletadas de forma anônima, garantindo a confidencialidade e a privacidade dos participantes.
 
