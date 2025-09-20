@@ -1,13 +1,13 @@
 # Monitoramento das Causas de Estresse nos Alunos Universitários
 
 <p align="center">
-  <img src="C:/Users/Cliente/Downloads/Camila/Monitoramento-das-causas-de-estresse-nos-alunos-de-hoje/img/estudante.jpg.jpg" width="400">
+  <img src="img\estudante.jpg.jpg" width="400">
 </p>
 
 
 
 
-O conjunto de dados reúne respostas de 843 estudantes universitários, com idades entre 18 e 21 anos, sobre suas experiências relacionadas ao estresse, saúde, relacionamentos, desempenho acadêmico e bem-estar emocional..
+O conjunto de dados reúne respostas de 843 estudantes universitários, com idades entre 18 e 21 anos, sobre suas experiências relacionadas ao estresse, saúde, relacionamentos, desempenho acadêmico e bem-estar emocional.
 
 As informações foram obtidas por meio de um questionário online aplicado via Google Forms, utilizando uma escala Likert de cinco pontos, que variava de “Nem um pouco” a “Extremamente”. Todas as respostas foram coletadas de forma anônima, garantindo a confidencialidade e a privacidade dos participantes.
 
