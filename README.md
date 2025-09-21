@@ -1,7 +1,7 @@
 # Monitoramento das Causas de Estresse nos Alunos Universitários
 
 <p align="center">
-  <img src="img\estudante.jpg.jpg" width="400">
+  <img src="img\estudante.jpg.jpg" width="500">
 </p>
 
 
